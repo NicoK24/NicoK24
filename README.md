@@ -1,12 +1,7 @@
-# 👋 Hello There
+# 👋 Hi!
 
-Hey! My name is Nico, and i'm a Discord.JS bot developer. Read down below to see my major projects:
+I'm Nico, a Discord.JS bot developer and author of "Become a Markdown Professional in 1 Week"
 
-| Project Name | Location |
-| ------------ | -------- |
-| ***Hybrid*** | Sweet Treats - Bakery & Cafe |
-| ***CPA*** | Chicago Central |
+More projects coming soon.
 
-***I will be making more public things soon in the future, so be on the lookout :)***
-
-*© 2021 Nico Kanakos*
+Twitter: @real2422
