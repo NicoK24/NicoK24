@@ -1,7 +1,5 @@
 # 👋 Hi!
 
-I'm Nico, a Discord.JS bot developer and author of "Become a Markdown Professional in 1 Week"
+I'm Nico. I script in JS & Lua for a roblox military group called USNGB.
 
-More projects coming soon.
-
-Twitter: @real2422
+My twitter is **@real2422**
