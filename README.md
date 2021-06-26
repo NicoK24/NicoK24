@@ -1,5 +1,8 @@
-# 👋 Hi!
+# 👋 Hey!
 
-I'm Nico. I script in JS & Lua for a roblox military group called USNGB.
+I'm Nico - nice to see you!
 
-My twitter is **@real2422**
+I'm a advanced Roblox Lua scripter. 
+
+Twitter: **@real2422**
+Roblox: **@WasNicoTaken**
